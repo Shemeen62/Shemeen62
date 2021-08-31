@@ -1,5 +1,5 @@
-### Hi there 👋
-I'm Shemeen Fernando
+### Hi there, I'm Shemeen Fernando👋
+
 
 <!--
 **Shemeen62/Shemeen62** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
