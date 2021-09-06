@@ -1,6 +1,7 @@
 ### Hi there, I'm Shemeen Fernando👋
 
 I’m a Computer Science undergraduate at NSBM✨
+
 🌱 I’m currently learning Java
 <!--
 **Shemeen62/Shemeen62** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
