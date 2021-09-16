@@ -1,5 +1,17 @@
 ### Hi there, I'm Shemeen Fernando👋
 
+<p align="center">
+    <img align="center" alt="visitors" src="https://gpvc.arturio.dev/Shemeen62" />
+</p>
+
+<p align="center">
+<br>
+<a href="https://www.linkedin.com/in/shemeen-fernando"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+
+</p>
+
+
+
 I’m a Computer Science undergraduate at NSBM✨
 
 🌱 I’m currently learning Java
