@@ -1,8 +1,5 @@
 ### Hi there, I'm Shemeen Fernando👋
 
-<p align="center">
-    <img align="center" alt="visitors" src="https://gpvc.arturio.dev/Shemeen62" />
-</p>
 
 <p align="center">
 <br>
@@ -17,6 +14,11 @@ I’m a Computer Science undergraduate at NSBM✨
 🌱 I’m currently learning Java
 <!--
 **Shemeen62/Shemeen62** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<p align="center">
+    <img align="center" alt="visitors" src="https://gpvc.arturio.dev/Shemeen62" />
+</p>
+
 
 Here are some ideas to get you started:
 
