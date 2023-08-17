@@ -11,7 +11,7 @@
 
 I’m a Computer Science undergraduate at NSBM✨
 
-🌱 I’m currently learning Java
+🌱 I’m currently working on my final year research project
 <!--
 **Shemeen62/Shemeen62** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
